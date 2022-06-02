@@ -1,0 +1,2 @@
+a="parrot"
+print(a)
